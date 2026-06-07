@@ -20,7 +20,7 @@
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone 节点地址.git
+git clone https://github.com/balu112121/Comfyui_Image_Proportional_Scaling.git
 
 ### 南光AIGC绘画
 
