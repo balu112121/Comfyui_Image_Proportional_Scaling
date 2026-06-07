@@ -1,0 +1,2 @@
+# Comfyui_Image_Proportional_Scaling
+Comfyui_Image_Proportional_Scaling图像缩放-图像等比例缩小、放大图像+图像原尺寸保持不变。
